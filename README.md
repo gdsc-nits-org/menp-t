@@ -1,5 +1,5 @@
-# PENP-T
-PostgreSQL + Express + Node + Prisma + TypeScript API Template
+# MENP-T
+MongoDB + Express + Node + Prisma + TypeScript API Template
 
 
 ## Getting Started
